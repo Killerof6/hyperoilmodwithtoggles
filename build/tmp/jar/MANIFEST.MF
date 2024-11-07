@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: hyperoilmod
+Specification-Vendor: playifkillers
+Specification-Version: 1
+Implementation-Title: hyperoilmodwithtoggles
+Implementation-Version: 1.0.0
+Implementation-Vendor: playifkillers
+Implementation-Timestamp: 2024-11-07T19:04:12+0100
+
